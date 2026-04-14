@@ -1,5 +1,3 @@
-# Abhilash Nandy
-
 <p align="center">
   <a href="https://sites.google.com/view/abhilashnandy">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -20,7 +18,7 @@
 
 ---
 
-# Abhilash Nandy's Thesis Resources
+# Thesis Resources
 
 ## Chapter 3.1
 - Code & Dataset: https://github.com/abhi1nandy2/EMNLP-2021-Findings  

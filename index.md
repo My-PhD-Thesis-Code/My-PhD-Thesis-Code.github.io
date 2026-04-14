@@ -1,4 +1,26 @@
-# Thesis Resources
+# Abhilash Nandy
+
+<p align="center">
+  <a href="https://sites.google.com/view/abhilashnandy">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abhi1nandy2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# Abhilash Nandy's Thesis Resources
 
 ## Chapter 3.1
 - Code & Dataset: https://github.com/abhi1nandy2/EMNLP-2021-Findings  
